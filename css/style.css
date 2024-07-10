@@ -1,0 +1,26 @@
+/* resrt */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#reference {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    background-image: url(../img/771bd96abf37283df4540823685c1491.jpg);
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    
+}
